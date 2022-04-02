@@ -282,6 +282,7 @@ font-size: 30px;
   #projects .column {
   float: left;
   width: 50%;
+  padding:5px;
 }
 
 
