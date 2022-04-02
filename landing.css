@@ -294,9 +294,9 @@ font-size: 30px;
 
  .column {
   float: left;
-  width: 80%;
+  width: 100%;
   margin: 0 auto;
-display: block;  
+  display: block;  
 }
 
 
