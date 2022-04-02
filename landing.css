@@ -294,8 +294,8 @@ font-size: 30px;
 
  .column {
   float: left;
-  width: 50%;
-  padding: auto;
+  width: 100%;
+  
   
 }
 
