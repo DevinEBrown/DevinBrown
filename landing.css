@@ -143,8 +143,6 @@ img{
 }
 
 
-
-
 /*workmain page*/
 
 .work-column  a{
@@ -164,15 +162,12 @@ text-decoration: none;
   clear: both;
 }
 
-.work-row{
-justify-content: center;
-}
-
 .work-column img{
-  width: 80%;
+  width: 90%;
    display: block;
   margin-left: auto;
-  margin-right: auto; 
+  margin-right: auto;
+  height: 380px; 
   }
 
 
@@ -301,10 +296,11 @@ float: left;
 }
 
 .column img{
-  width: 60%;
+  width: 80%;
    display: block;
   margin-left: auto;
   margin-right: auto; 
+height:440px;
   }
 
  .row:after {
