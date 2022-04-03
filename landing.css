@@ -156,7 +156,7 @@ text-decoration: none;
 
 .work-column{
    float: left;
-  width: 50%;
+  width: 70%;
   padding: none;
 }
 .work-row:after {
@@ -282,7 +282,7 @@ font-size: 30px;
   #projects .column {
   float: left;
   width: 50%;
- 
+ justify-content: center;
 }
 
 
