@@ -293,8 +293,8 @@ font-size: 30px;
 }
 
  .column {
-  float: left;
-  width: 50%;
+/*   float: left; */
+  width: 90%;
 }
 
 
