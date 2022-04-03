@@ -304,6 +304,9 @@ font-size: 30px;
   clear: both;
 }
 
+.row {
+  display: flex;
+}
  .column p {
   font-family: 'Roboto', sans-serif;
     font-weight: 300;
