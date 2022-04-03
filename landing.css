@@ -156,7 +156,7 @@ text-decoration: none;
 
 .work-column{
    float: left;
-  width: 33.33%;
+  width: 100%;
   padding: none;
 }
 .work-row:after {
