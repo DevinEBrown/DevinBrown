@@ -297,10 +297,10 @@ float: left;
 
 .column img{
   width: 80%;
-   display: block;
+/*    display: block; */
   margin-left: auto;
   margin-right: auto; 
-height:440px;
+height:auto;
   }
 
  .row:after {
