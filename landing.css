@@ -157,12 +157,15 @@ text-decoration: none;
 .work-column{
    float: left;
   width: 70%;
-  padding: none;
 }
 .work-row:after {
   content: "";
   display: table;
   clear: both;
+}
+
+.work-row{
+justify-content: center;
 }
 
 .work-column img{
@@ -282,7 +285,7 @@ font-size: 30px;
   #projects .column {
   float: left;
   width: 50%;
- justify-content: center;
+
 }
 
 
@@ -306,7 +309,9 @@ display: block;
   margin-left: auto;
   margin-right: auto; 
   }
-
+.row{
+ justify-content: center;
+}
 
  .row:after {
   content: "";
