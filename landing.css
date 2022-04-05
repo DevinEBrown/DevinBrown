@@ -166,17 +166,24 @@ text-decoration: none;
   clear: both;
 }
 
-.work-row div{
-}
-
 .work-column img{
   width: 90%;
    display: block;
   margin-left: auto;
   margin-right: auto;
+  height: 450px;
    
   }
 
+/*  .work-row {
+  display: flex;
+}
+
+.work-column {
+  flex: 50%;
+  width: 30%;
+}
+*/
 
 
 /*work page*/
@@ -338,7 +345,8 @@ font-size: 30px;
 }
 
 #workmain img{
-  width: 10%;
+  width: 50%;
+  height: 50%;
 }
 
 /* Responsive layout - when the screen is less than 600px wide, make the three columns stack on top of each other instead of next to each other */
@@ -358,7 +366,10 @@ img{
   width: 100%;
 }
 
-
+.work-column img{
+  width: 100%;
+   
+  }
   .nav{
     background-color: #28423f; 
     padding: auto;
