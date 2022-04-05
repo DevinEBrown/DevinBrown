@@ -28,6 +28,7 @@ padding-right: 50px;
   float: left;
   width: 30%;
   padding-top: 20px;
+
 }
 
 .nav h1{
@@ -143,6 +144,8 @@ img{
 }
 
 
+
+
 /*workmain page*/
 
 .work-column  a{
@@ -155,6 +158,7 @@ text-decoration: none;
 .work-column{
    float: left;
   width: 33.33%;
+
 }
 .work-row:after {
   content: "";
@@ -162,11 +166,15 @@ text-decoration: none;
   clear: both;
 }
 
+.work-row div{
+}
+
 .work-column img{
   width: 90%;
    display: block;
   margin-left: auto;
   margin-right: auto;
+   
   }
 
 
@@ -243,6 +251,8 @@ font-size: 30px;
 }
 
 /*projects*/
+
+
 .projects h1{
   font-size: 80px;
   background-color: #ecdbd3;
@@ -251,7 +261,7 @@ font-size: 30px;
 .projects div{
   padding-bottom: 20px;
   background-color: #ecdbd3;;
-}
+  }
 
 
 #projects img{
@@ -268,6 +278,7 @@ font-size: 30px;
     font-weight: 300;
     color: black;
     text-align: left;
+    margin: auto;
 }
 #projects li{
   font-size: 20px;
@@ -279,7 +290,8 @@ font-size: 30px;
   #projects .column {
   float: left;
   width: 50%;
-
+ padding: 5px;
+}
 }
 
 
@@ -287,35 +299,35 @@ font-size: 30px;
   content: "";
   display: table;
   clear: both;
+
 }
 
- .column {
-float: left;
+/* .column {
+  float: left;
   width: 50%;
 }
 
-.column img{
-  width: 80%;
-   display: block;
-  margin-left: auto;
-  margin-right: auto; 
-
-  }
 
  .row:after {
   content: "";
   display: table;
   clear: both;
-}
 
- .column p {
+}*/
+
+ .product p {
   font-family: 'Roboto', sans-serif;
     font-weight: 300;
     color: black;
-    text-align: left;
+    text-align: center;
 }
 
-/* Responsive layout */
+.product img{
+  width: 50%;
+
+}
+
+/* Responsive layout - when the screen is less than 600px wide, make the three columns stack on top of each other instead of next to each other */
 
 @media screen and (max-width: 800px) {
    .work-column, .m-column {
@@ -328,6 +340,11 @@ img{
   width: 100%;
 }
 
+.product img{
+  width: 100%;
+}
+
+
   .nav{
     background-color: #28423f; 
     padding: auto;
@@ -335,7 +352,7 @@ img{
 
   }
 nav li a{
-  font-size: 20px; 
+  font-size: 25px; 
   font-family: 'Alata', sans-serif;
     font-weight: 500;
     color: #d18c4e;
@@ -366,6 +383,7 @@ font-size: 35px;
 
 #projects img{
   width: 100%;
+
 }
   }
 }
