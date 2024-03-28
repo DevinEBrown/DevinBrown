@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="375" height="812" viewBox="0 0 375 812">
+  <defs>
+    <clipPath id="clip-Quiz">
+      <rect width="375" height="812"/>
+    </clipPath>
+  </defs>
+  <g id="Quiz" clip-path="url(#clip-Quiz)">
+    <rect width="375" height="812" fill="#608295"/>
+    <g id="Group_4129" data-name="Group 4129" transform="translate(-9758 -8872.489)">
+      <text id="Welcome_to_Paint_We_are_your_personal_interior_designers._We_will_help_select_the_perfect_paint_color_for_your_home._" data-name="Welcome to Paint!
+We are your personal 
+interior designers. We will 
+help select the perfect paint
+ color for your home. " transform="translate(9945.414 9312.612)" fill="#fff" font-size="35" font-family="Montserrat-SemiBold, Montserrat" font-weight="600"><tspan x="-166.163" y="0">Welcome to Paint!</tspan><tspan font-size="25" font-family="Montserrat-Medium, Montserrat" font-weight="500"><tspan x="-137.85" y="33">We are your personal </tspan><tspan x="-167.313" y="63">interior designers. We will </tspan><tspan x="-179.262" y="93">help select the perfect paint</tspan><tspan x="-134.262" y="123" xml:space="preserve"> color for your home. </tspan></tspan></text>
+      <path id="Path_5177" data-name="Path 5177" d="M27.009,0A27.009,27.009,0,1,1,0,27.009,27.009,27.009,0,0,1,27.009,0Z" transform="translate(10056.084 9555.389)" fill="#88a1af"/>
+      <text id="Next" transform="translate(10021.083 9591.389)" fill="#fff" font-size="26" font-family="Nunito-Regular, Nunito" letter-spacing="-0.02em"><tspan x="-26.741" y="0">Next</tspan></text>
+      <text id="Skip" transform="translate(9834 9590.389)" fill="#fff" font-size="27" font-family="Nunito-Regular, Nunito" letter-spacing="-0.02em"><tspan x="-25.259" y="0">Skip</tspan></text>
+      <path id="Path_5178" data-name="Path 5178" d="M1.054,20.7C-.263,19.793-.354,18.975.827,17.84l6.812-6.812c.227-.227.409-.409.636-.681-.227-.227-.409-.454-.636-.681L.872,2.9a4.861,4.861,0,0,1-.636-.727A1.327,1.327,0,0,1,.464.448,1.267,1.267,0,0,1,2.144.221,4.861,4.861,0,0,1,2.87.857L10.953,8.94c1.09,1.09,1.09,1.771,0,2.861L2.87,19.884a9.581,9.581,0,0,1-1.044.863A4.155,4.155,0,0,0,1.054,20.7Z" transform="translate(10077.306 9571.7)" fill="#fff"/>
+      <text id="Paint_Quiz" data-name="Paint Quiz" transform="translate(9954.465 8917.285)" fill="#fff" font-size="25" font-family="Ubuntu-Bold, Ubuntu" font-weight="700" letter-spacing="-0.02em"><tspan x="-59.088" y="0">Paint Quiz</tspan></text>
+    </g>
+    <path id="Icon_awesome-paint-roller" data-name="Icon awesome-paint-roller" d="M120.373,51.514V12.879C120.373,5.767,116.226,0,111.113,0H9.259C4.146,0,0,5.767,0,12.879V51.514c0,7.111,4.146,12.879,9.259,12.879H111.113C116.226,64.393,120.373,58.626,120.373,51.514Zm9.259-25.757V77.271c0,7.111-4.146,12.879-9.259,12.879h-46.3c-10.229,0-18.519,11.53-18.519,25.757v12.879c-5.113,0-9.259,5.767-9.259,12.879v51.514c0,7.111,4.146,12.879,9.259,12.879H74.076c5.113,0,9.259-5.767,9.259-12.879V141.664c0-7.111-4.146-12.879-9.259-12.879V115.907h46.3c15.342,0,27.778-17.3,27.778-38.636V51.514C148.151,37.288,139.861,25.757,129.632,25.757Z" transform="translate(122.182 140)" fill="#eff3f2"/>
+  </g>
+</svg>
