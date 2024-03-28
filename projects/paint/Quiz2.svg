@@ -1,0 +1,79 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="375" height="812" viewBox="0 0 375 812">
+  <defs>
+    <clipPath id="clip-path">
+      <rect width="320" height="414" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-Quiz_2">
+      <rect width="375" height="812"/>
+    </clipPath>
+  </defs>
+  <g id="Quiz_2" data-name="Quiz – 2" clip-path="url(#clip-Quiz_2)">
+    <rect width="375" height="812" fill="#608295"/>
+    <g id="Group_4129" data-name="Group 4129" transform="translate(-9758 -8872.489)">
+      <text id="First_tell_us_more_about_your_project._What_room_are_you_painting_" data-name="First tell us more about your
+project. 
+
+What room are you painting?
+
+" transform="translate(9946.414 8980.612)" fill="#fff" font-size="24" font-family="Montserrat-Medium, Montserrat" font-weight="500"><tspan x="-171.504" y="0">First tell us more about your</tspan><tspan x="-49.308" y="29">project. </tspan><tspan x="0" y="58"></tspan><tspan x="-179.676" y="87">What room are you painting?</tspan><tspan x="0" y="116"></tspan><tspan x="0" y="145"></tspan></text>
+      <path id="Path_5177" data-name="Path 5177" d="M27.009,0A27.009,27.009,0,1,1,0,27.009,27.009,27.009,0,0,1,27.009,0Z" transform="translate(10056.084 9555.389)" fill="#88a1af"/>
+      <text id="Next" transform="translate(10021.083 9591.389)" fill="#fff" font-size="26" font-family="Nunito-Regular, Nunito" letter-spacing="-0.02em"><tspan x="-26.741" y="0">Next</tspan></text>
+      <text id="Skip" transform="translate(9834 9590.389)" fill="#fff" font-size="27" font-family="Nunito-Regular, Nunito" letter-spacing="-0.02em"><tspan x="-25.259" y="0">Skip</tspan></text>
+      <path id="Path_5178" data-name="Path 5178" d="M1.054,20.7C-.263,19.793-.354,18.975.827,17.84l6.812-6.812c.227-.227.409-.409.636-.681-.227-.227-.409-.454-.636-.681L.872,2.9a4.861,4.861,0,0,1-.636-.727A1.327,1.327,0,0,1,.464.448,1.267,1.267,0,0,1,2.144.221,4.861,4.861,0,0,1,2.87.857L10.953,8.94c1.09,1.09,1.09,1.771,0,2.861L2.87,19.884a9.581,9.581,0,0,1-1.044.863A4.155,4.155,0,0,0,1.054,20.7Z" transform="translate(10077.306 9571.7)" fill="#fff"/>
+      <text id="Paint_Quiz" data-name="Paint Quiz" transform="translate(9954.465 8917.285)" fill="#fff" font-size="25" font-family="Ubuntu-Bold, Ubuntu" font-weight="700" letter-spacing="-0.02em"><tspan x="-59.088" y="0">Paint Quiz</tspan></text>
+    </g>
+    <g id="Repeat_Grid_2" data-name="Repeat Grid 2" transform="translate(33 246)" clip-path="url(#clip-path)">
+      <g transform="translate(-33 -246)">
+        <g id="Rectangle_2206" data-name="Rectangle 2206" transform="translate(33 246)" fill="#608295" stroke="#88a1af" stroke-width="1">
+          <rect width="146" height="123" stroke="none"/>
+          <rect x="0.5" y="0.5" width="145" height="122" fill="none"/>
+        </g>
+      </g>
+      <g transform="translate(133 -246)">
+        <g id="Rectangle_2206-2" data-name="Rectangle 2206" transform="translate(33 246)" fill="#608295" stroke="#88a1af" stroke-width="1">
+          <rect width="146" height="123" stroke="none"/>
+          <rect x="0.5" y="0.5" width="145" height="122" fill="none"/>
+        </g>
+      </g>
+      <g transform="translate(-33 -103)">
+        <g id="Rectangle_2206-3" data-name="Rectangle 2206" transform="translate(33 246)" fill="#608295" stroke="#88a1af" stroke-width="1">
+          <rect width="146" height="123" stroke="none"/>
+          <rect x="0.5" y="0.5" width="145" height="122" fill="none"/>
+        </g>
+      </g>
+      <g transform="translate(133 -103)">
+        <g id="Rectangle_2206-4" data-name="Rectangle 2206" transform="translate(33 246)" fill="#608295" stroke="#88a1af" stroke-width="1">
+          <rect width="146" height="123" stroke="none"/>
+          <rect x="0.5" y="0.5" width="145" height="122" fill="none"/>
+        </g>
+      </g>
+      <g transform="translate(-33 40)">
+        <g id="Rectangle_2206-5" data-name="Rectangle 2206" transform="translate(33 246)" fill="#608295" stroke="#88a1af" stroke-width="1">
+          <rect width="146" height="123" stroke="none"/>
+          <rect x="0.5" y="0.5" width="145" height="122" fill="none"/>
+        </g>
+      </g>
+      <g transform="translate(133 40)">
+        <g id="Rectangle_2206-6" data-name="Rectangle 2206" transform="translate(33 246)" fill="#608295" stroke="#88a1af" stroke-width="1">
+          <rect width="146" height="123" stroke="none"/>
+          <rect x="0.5" y="0.5" width="145" height="122" fill="none"/>
+        </g>
+      </g>
+    </g>
+    <path id="Icon_awesome-couch" data-name="Icon awesome-couch" d="M11.25,15.75v4.5h22.5v-4.5a4.5,4.5,0,0,1,4.5-4.5H40.5A6.752,6.752,0,0,0,33.75,4.5H11.25A6.752,6.752,0,0,0,4.5,11.25H6.75A4.5,4.5,0,0,1,11.25,15.75ZM40.5,13.5H38.25A2.248,2.248,0,0,0,36,15.75V22.5H9V15.75A2.248,2.248,0,0,0,6.75,13.5H4.5a4.485,4.485,0,0,0-2.25,8.374v8.5A1.128,1.128,0,0,0,3.375,31.5h4.5A1.128,1.128,0,0,0,9,30.375V29.25H36v1.125A1.128,1.128,0,0,0,37.125,31.5h4.5a1.128,1.128,0,0,0,1.125-1.125v-8.5A4.485,4.485,0,0,0,40.5,13.5Z" transform="translate(254 272.5)" fill="#fff"/>
+    <text id="Living_Room" data-name="Living Room" transform="translate(274 345)" fill="#fff" font-size="15" font-family="Montserrat-SemiBold, Montserrat" font-weight="600" letter-spacing="-0.05em"><tspan x="-44.917" y="0">Living Room</tspan></text>
+    <path id="Icon_awesome-horse" data-name="Icon awesome-horse" d="M40.494,5.386a2.233,2.233,0,0,0-.6-1.533c-.266-.283-.6-.641-.963-1.02A3.335,3.335,0,0,0,40.488.678.569.569,0,0,0,39.93,0H31.494a9,9,0,0,0-9,9H11.25a6.705,6.705,0,0,0-5.062,2.328V11.25A6.194,6.194,0,0,0,0,17.438v3.938A1.125,1.125,0,0,0,1.125,22.5H2.25a1.125,1.125,0,0,0,1.125-1.125V17.438a2.763,2.763,0,0,1,1.18-2.227c-.015.181-.055.355-.055.54a6.711,6.711,0,0,0,2.147,4.913L4.839,25.487a4.5,4.5,0,0,0-.152,2.671l1.747,6.99A1.124,1.124,0,0,0,7.525,36h4.638a1.125,1.125,0,0,0,1.091-1.4L11.4,27.2,13.08,22.73,22.5,24.3V34.875A1.125,1.125,0,0,0,23.625,36h4.5a1.125,1.125,0,0,0,1.125-1.125v-12.5a7.843,7.843,0,0,0,2.25-5.5c0-.015,0-.03-.006-.045v-7.2l1.125.5,1.329,2.651A2.249,2.249,0,0,0,36.8,13.856l2.289-.915A2.25,2.25,0,0,0,40.5,10.85l0-5.464Zm-4.5,1.364a1.125,1.125,0,1,1,1.125-1.125A1.125,1.125,0,0,1,35.994,6.75Z" transform="translate(253.599 560)" fill="#fff"/>
+    <text id="Child_s_Room" data-name="Child’s Room" transform="translate(274 629)" fill="#fff" font-size="15" font-family="Montserrat-SemiBold, Montserrat" font-weight="600" letter-spacing="-0.05em"><tspan x="-46.642" y="0">Child’s Room</tspan></text>
+    <path id="Icon_awesome-bath" data-name="Icon awesome-bath" d="M34.313,18H5.625V7.875a2.249,2.249,0,0,1,4.149-1.2,4.779,4.779,0,0,0,.481,5.838.843.843,0,0,0,.035,1.155l.8.8a.844.844,0,0,0,1.193,0L18.96,7.779a.844.844,0,0,0,0-1.193l-.8-.8a.843.843,0,0,0-1.155-.035A4.771,4.771,0,0,0,12.5,4.675,5.623,5.623,0,0,0,2.25,7.875V18H1.688A1.687,1.687,0,0,0,0,19.688v1.125A1.687,1.687,0,0,0,1.688,22.5H2.25v2.25A6.733,6.733,0,0,0,4.5,29.781v2.282A1.687,1.687,0,0,0,6.188,33.75H7.313A1.687,1.687,0,0,0,9,32.063V31.5H27v.563a1.687,1.687,0,0,0,1.688,1.688h1.125A1.687,1.687,0,0,0,31.5,32.063V29.781a6.733,6.733,0,0,0,2.25-5.031V22.5h.563A1.687,1.687,0,0,0,36,20.813V19.688A1.687,1.687,0,0,0,34.313,18Z" transform="translate(90.2 562.75)" fill="#fff"/>
+    <text id="Bathroom" transform="translate(106 630)" fill="#fff" font-size="15" font-family="Montserrat-SemiBold, Montserrat" font-weight="600" letter-spacing="-0.05em"><tspan x="-36.6" y="0">Bathroom</tspan></text>
+    <g id="Icon_ionic-ios-bed" data-name="Icon ionic-ios-bed" transform="translate(90.001 273.96)">
+      <path id="Path_5180" data-name="Path 5180" d="M32.217,14.625h-.028a1.536,1.536,0,0,0-1.533,1.533.156.156,0,0,1-.155.155H5.5a.156.156,0,0,1-.155-.155,1.536,1.536,0,0,0-1.533-1.533H3.783A1.536,1.536,0,0,0,2.25,16.158V28.842a1.536,1.536,0,0,0,1.533,1.533h.028a1.536,1.536,0,0,0,1.533-1.533v-.436a.282.282,0,0,1,.281-.281h24.75a.282.282,0,0,1,.281.281v.436a1.536,1.536,0,0,0,1.533,1.533h.028a1.536,1.536,0,0,0,1.533-1.533V16.158A1.536,1.536,0,0,0,32.217,14.625Z" fill="#fff"/>
+      <path id="Path_5181" data-name="Path 5181" d="M5.906,15.047H7.488a.282.282,0,0,0,.281-.281v-.914a1.128,1.128,0,0,1,1.125-1.125H15.75a1.128,1.128,0,0,1,1.125,1.125v.914a.282.282,0,0,0,.281.281h1.688a.282.282,0,0,0,.281-.281v-.914a1.128,1.128,0,0,1,1.125-1.125h6.855a1.128,1.128,0,0,1,1.125,1.125v.914a.282.282,0,0,0,.281.281h1.582a.564.564,0,0,0,.563-.562V7.875a2.257,2.257,0,0,0-2.25-2.25H7.594a2.257,2.257,0,0,0-2.25,2.25v6.609A.564.564,0,0,0,5.906,15.047Z" fill="#fff"/>
+    </g>
+    <text id="Bedroom" transform="translate(110 345)" fill="#fff" font-size="15" font-family="Montserrat-SemiBold, Montserrat" font-weight="600" letter-spacing="-0.05em"><tspan x="-33.923" y="0">Bedroom</tspan></text>
+    <path id="Icon_material-local-dining" data-name="Icon material-local-dining" d="M12.15,20.01,16.4,15.765,5.865,5.25a6.011,6.011,0,0,0,0,8.49ZM22.32,17.3c2.3,1.065,5.52.315,7.905-2.07,2.865-2.865,3.42-6.975,1.215-9.18s-6.3-1.65-9.18,1.215c-2.385,2.385-3.135,5.61-2.07,7.905L5.55,29.805,7.665,31.92,18,21.615l10.32,10.32,2.115-2.115L20.115,19.5Z" transform="translate(87.277 419.642)" fill="#fff"/>
+    <text id="Dining_Room_" data-name="Dining Room " transform="translate(108 492)" fill="#e4e4e4" font-size="15" font-family="Montserrat-SemiBold, Montserrat" font-weight="600" letter-spacing="-0.05em"><tspan x="-49.118" y="0">Dining Room </tspan></text>
+    <path id="Icon_material-kitchen" data-name="Icon material-kitchen" d="M27,3.015,9,3A3,3,0,0,0,6,6V30a3.009,3.009,0,0,0,3,3H27a3.009,3.009,0,0,0,3-3V6A2.986,2.986,0,0,0,27,3.015ZM27,30H9V16.47H27Zm0-16.5H9V6H27Zm-15-6h3V12H12ZM12,18h3v7.5H12Z" transform="translate(259 419)" fill="#fff"/>
+    <text id="Kitchen" transform="translate(282 493)" fill="#fff" font-size="15" font-family="Montserrat-SemiBold, Montserrat" font-weight="600" letter-spacing="-0.05em"><tspan x="-27.653" y="0">Kitchen</tspan></text>
+  </g>
+</svg>

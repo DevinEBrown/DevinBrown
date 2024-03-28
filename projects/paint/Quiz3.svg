@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="375" height="812" viewBox="0 0 375 812">
+  <defs>
+    <clipPath id="clip-path">
+      <rect width="323" height="319" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-Quiz_3">
+      <rect width="375" height="812"/>
+    </clipPath>
+  </defs>
+  <g id="Quiz_3" data-name="Quiz – 3" clip-path="url(#clip-Quiz_3)">
+    <rect width="375" height="812" fill="#608295"/>
+    <g id="Group_4129" data-name="Group 4129" transform="translate(-9758 -8872.489)">
+      <text id="_What_is_the_size_of_your_room_" data-name="
+What is the size of 
+your room?" transform="translate(9954.414 8955.612)" fill="#eff3f2" font-size="25" font-family="Montserrat-Medium, Montserrat" font-weight="500"><tspan x="0" y="0"></tspan><tspan x="-119.338" y="30">What is the size of </tspan><tspan x="-72.325" y="60">your room?</tspan></text>
+      <path id="Path_5177" data-name="Path 5177" d="M27.009,0A27.009,27.009,0,1,1,0,27.009,27.009,27.009,0,0,1,27.009,0Z" transform="translate(10056.084 9555.389)" fill="#88a1af"/>
+      <text id="Next" transform="translate(10021.083 9591.389)" fill="#fff" font-size="26" font-family="Nunito-Regular, Nunito" letter-spacing="-0.02em"><tspan x="-26.741" y="0">Next</tspan></text>
+      <text id="Skip" transform="translate(9834 9590.389)" fill="#fff" font-size="27" font-family="Nunito-Regular, Nunito" letter-spacing="-0.02em"><tspan x="-25.259" y="0">Skip</tspan></text>
+      <path id="Path_5178" data-name="Path 5178" d="M1.054,20.7C-.263,19.793-.354,18.975.827,17.84l6.812-6.812c.227-.227.409-.409.636-.681-.227-.227-.409-.454-.636-.681L.872,2.9a4.861,4.861,0,0,1-.636-.727A1.327,1.327,0,0,1,.464.448,1.267,1.267,0,0,1,2.144.221,4.861,4.861,0,0,1,2.87.857L10.953,8.94c1.09,1.09,1.09,1.771,0,2.861L2.87,19.884a9.581,9.581,0,0,1-1.044.863A4.155,4.155,0,0,0,1.054,20.7Z" transform="translate(10077.306 9571.7)" fill="#fff"/>
+      <text id="Paint_Quiz" data-name="Paint Quiz" transform="translate(9954.465 8917.285)" fill="#fff" font-size="25" font-family="Ubuntu-Bold, Ubuntu" font-weight="700" letter-spacing="-0.02em"><tspan x="-59.088" y="0">Paint Quiz</tspan></text>
+    </g>
+    <g id="Repeat_Grid_4" data-name="Repeat Grid 4" transform="translate(26 236)" clip-path="url(#clip-path)">
+      <g transform="translate(-29 -229)">
+        <g id="Rectangle_2208" data-name="Rectangle 2208" transform="translate(29 229)" fill="#608295" stroke="#88a1af" stroke-width="1">
+          <rect width="146" height="140" stroke="none"/>
+          <rect x="0.5" y="0.5" width="145" height="139" fill="none"/>
+        </g>
+      </g>
+      <g transform="translate(137 -229)">
+        <g id="Rectangle_2208-2" data-name="Rectangle 2208" transform="translate(29 229)" fill="#608295" stroke="#88a1af" stroke-width="1">
+          <rect width="146" height="140" stroke="none"/>
+          <rect x="0.5" y="0.5" width="145" height="139" fill="none"/>
+        </g>
+      </g>
+      <g transform="translate(-29 -69)">
+        <g id="Rectangle_2208-3" data-name="Rectangle 2208" transform="translate(29 229)" fill="#608295" stroke="#88a1af" stroke-width="1">
+          <rect width="146" height="140" stroke="none"/>
+          <rect x="0.5" y="0.5" width="145" height="139" fill="none"/>
+        </g>
+      </g>
+      <g transform="translate(137 -69)">
+        <g id="Rectangle_2208-4" data-name="Rectangle 2208" transform="translate(29 229)" fill="#608295" stroke="#88a1af" stroke-width="1">
+          <rect width="146" height="140" stroke="none"/>
+          <rect x="0.5" y="0.5" width="145" height="139" fill="none"/>
+        </g>
+      </g>
+    </g>
+    <text id="S" transform="translate(98 282)" fill="#fff" font-size="25" font-family="Montserrat-SemiBold, Montserrat" font-weight="600" letter-spacing="-0.05em"><tspan x="-7.863" y="0">S</tspan></text>
+    <text id="_100-200_sqft." data-name="100-200 sqft." transform="translate(98 323)" fill="#fff" font-size="20" font-family="Montserrat-SemiBold, Montserrat" font-weight="600" letter-spacing="-0.05em"><tspan x="-59.51" y="0">100-200 sqft.</tspan></text>
+    <text id="M" transform="translate(269 282)" fill="#fff" font-size="25" font-family="Montserrat-SemiBold, Montserrat" font-weight="600" letter-spacing="-0.05em"><tspan x="-11.938" y="0">M</tspan></text>
+    <text id="XL" transform="translate(269 453)" fill="#fff" font-size="25" font-family="Montserrat-SemiBold, Montserrat" font-weight="600" letter-spacing="-0.05em"><tspan x="-15.238" y="0">XL</tspan></text>
+    <text id="L" transform="translate(98 459)" fill="#fff" font-size="25" font-family="Montserrat-SemiBold, Montserrat" font-weight="600" letter-spacing="-0.05em"><tspan x="-7.488" y="0">L</tspan></text>
+    <text id="_200-300_sqft." data-name="200-300 sqft." transform="translate(261 329)" fill="#fff" font-size="20" font-family="Montserrat-SemiBold, Montserrat" font-weight="600" letter-spacing="-0.05em"><tspan x="-61.47" y="0">200-300 sqft.</tspan></text>
+    <text id="_400_sqft." data-name="400+ sqft." transform="translate(269 490)" fill="#fff" font-size="20" font-family="Montserrat-SemiBold, Montserrat" font-weight="600" letter-spacing="-0.05em"><tspan x="-46.94" y="0">400+ sqft.</tspan></text>
+    <text id="_300-400_sqft." data-name="300-400 sqft." transform="translate(98 490)" fill="#fff" font-size="20" font-family="Montserrat-SemiBold, Montserrat" font-weight="600" letter-spacing="-0.05em"><tspan x="-62.72" y="0">300-400 sqft.</tspan></text>
+  </g>
+</svg>
