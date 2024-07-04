@@ -9,9 +9,6 @@
     <clipPath id="clip-path-3">
       <rect id="Rectangle_1499" data-name="Rectangle 1499" width="375" height="383" transform="translate(21 356)" fill="#f5f5f5"/>
     </clipPath>
-    <clipPath id="clip-path-5">
-      <rect width="16" height="16" fill="none"/>
-    </clipPath>
     <clipPath id="clip-Calendar">
       <rect width="375" height="812"/>
     </clipPath>
@@ -21,7 +18,7 @@
     <g id="Group_2411" data-name="Group 2411">
       <rect id="Background" width="375" height="113.523" transform="translate(0 0)" fill="rgba(248,248,248,0.82)"/>
       <line id="Separator" x2="375" transform="translate(0 114.773)" fill="none" stroke="rgba(0,0,0,0.3)" stroke-width="0.5"/>
-      <text id="Title" transform="translate(32 58)" fill="#517fad" font-size="25" font-family="Helvetica-Bold, Helvetica" font-weight="700" letter-spacing="0em"><tspan x="69.663" y="19">SELECT DATE</tspan></text>
+      <text id="Title" transform="translate(32 58)" fill="#517fad" font-size="17" font-family="Helvetica-Bold, Helvetica" font-weight="700" letter-spacing="0em"><tspan x="97.131" y="13">SELECT DATE</tspan></text>
     </g>
     <g id="status_bar">
       <g id="Group_2377" data-name="Group 2377" transform="translate(0 44)" clip-path="url(#clip-path)">
@@ -73,7 +70,7 @@
       <g id="Group_2414" data-name="Group 2414">
         <text id="S-2" data-name="S" transform="translate(331.944 80)" font-size="15" font-family="Helvetica-Bold, Helvetica" font-weight="700"><tspan x="0" y="0">S</tspan></text>
       </g>
-      <text id="April_2020" data-name="April 2020" transform="translate(149.773 32)" fill="#517fad" font-size="16" font-family="Helvetica-Bold, Helvetica" font-weight="700" letter-spacing="0.031em"><tspan x="0" y="0">April 2020</tspan></text>
+      <text id="November_2021" data-name="November 2021" transform="translate(149.773 32)" fill="#517fad" font-size="16" font-family="Helvetica-Bold, Helvetica" font-weight="700" letter-spacing="0.031em"><tspan x="0" y="0">November 2021</tspan></text>
     </g>
     <g id="LABEL_1" data-name="LABEL 1" transform="translate(-23 -30)">
       <rect id="Rectangle_286" data-name="Rectangle 286" width="68" height="25" rx="6" transform="translate(49 705)" fill="#b7b7b7"/>
@@ -120,16 +117,18 @@
       <text id="_5_PM" data-name="5 PM" transform="translate(77 721)" fill="#fff" font-size="10" font-family="Helvetica-Bold, Helvetica" font-weight="700"><tspan x="-11.67" y="0">5 PM</tspan></text>
     </g>
     <text id="Select_Time" data-name="Select Time" transform="translate(30 647)" fill="#517fad" font-size="20" font-family="Helvetica-Bold, Helvetica" font-weight="700"><tspan x="0" y="0">Select Time</tspan></text>
-    <g id="Left_Accessory" data-name="Left Accessory" transform="translate(286)">
+    <g id="Right_Accessory" data-name="Right Accessory" transform="translate(204 48)">
+      <rect id="Right_Accessory_background" data-name="Right Accessory background" width="168.917" height="44" fill="rgba(0,0,0,0)"/>
+      <rect id="Button_Links_to" data-name="Button Links to" width="93" height="44" transform="translate(77)" fill="none"/>
+      <text id="_Label" data-name="↳ Label" transform="translate(67.376 10)" fill="#517fad" font-size="17" font-family="Helvetica-Bold, Helvetica" font-weight="700" letter-spacing="0em"><tspan x="36.572" y="13">Select</tspan></text>
+    </g>
+    <g id="Left_Accessory" data-name="Left Accessory" transform="translate(-1 48)">
       <rect id="Left_Accessory_background" data-name="Left Accessory background" width="179" height="44" fill="rgba(0,0,0,0)"/>
-      <rect id="Button_Links_to" data-name="Button Links to" width="103" height="44" fill="none"/>
-      <text id="_Label" data-name="↳ Label" transform="translate(16 10)" fill="#517fad" font-size="17" font-family="Helvetica-Bold, Helvetica" font-weight="700" letter-spacing="0em"><tspan x="0" y="13">Cancel</tspan></text>
+      <rect id="Button_Links_to-2" data-name="Button Links to" width="103" height="44" fill="none"/>
+      <text id="_Label-2" data-name="↳ Label" transform="translate(16 10)" fill="#517fad" font-size="17" font-family="Helvetica-Bold, Helvetica" font-weight="700" letter-spacing="0em"><tspan x="0" y="13">Cancel</tspan></text>
     </g>
-    <text id="November_17" data-name="November 17" transform="translate(70 176)" fill="#517fad" font-size="17" font-family="Helvetica"><tspan x="-51.025" y="0">November 17</tspan></text>
-    <text id="_11:00_AM" data-name="11:00 AM" transform="translate(58 202)" fill="#517fad" font-size="17" font-family="Helvetica"><tspan x="-35.291" y="0">11:00 AM</tspan></text>
-    <text id="SELECT_Available_TIME_For_Hope_Carter" data-name="SELECT Available TIME For Hope Carter" transform="translate(23 149)" fill="#517fad" font-size="20" font-family="Helvetica-Bold, Helvetica" font-weight="700"><tspan x="0" y="0">Select Available Time For Hope Carter</tspan></text>
-    <g id="Backward_arrow" data-name="Backward arrow" transform="translate(15 13)" clip-path="url(#clip-path-5)">
-      <path id="Path_10" data-name="Path 10" d="M8,0,6.545,1.455l5.506,5.506H0V9.039H12.052L6.545,14.545,8,16l8-8Z" transform="translate(16 16) rotate(180)" fill="#517fad"/>
-    </g>
+    <text id="November_17" data-name="November 17" transform="translate(58 174)" fill="#517fad" font-size="17" font-family="Helvetica"><tspan x="-51.025" y="0">November 17</tspan></text>
+    <text id="_11:00_AM" data-name="11:00 AM" transform="translate(42 203)" fill="#517fad" font-size="17" font-family="Helvetica"><tspan x="-35.291" y="0">11:00 AM</tspan></text>
+    <text id="SELECT_Available_TIME_For_Hope_Carter" data-name="SELECT Available TIME For Hope Carter" transform="translate(7 149)" fill="#517fad" font-size="20" font-family="Helvetica-Bold, Helvetica" font-weight="700"><tspan x="0" y="0">Select Available Time For Hope Carter</tspan></text>
   </g>
 </svg>
