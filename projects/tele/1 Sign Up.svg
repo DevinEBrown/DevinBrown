@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="375" height="812" viewBox="0 0 375 812">
+  <defs>
+    <clipPath id="clip-path">
+      <rect width="279" height="240" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-2">
+      <rect width="16" height="16" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-_1_Sign_Up">
+      <rect width="375" height="812"/>
+    </clipPath>
+  </defs>
+  <g id="_1_Sign_Up" data-name="1 Sign Up" clip-path="url(#clip-_1_Sign_Up)">
+    <rect width="375" height="812" fill="#779bbf"/>
+    <g id="Continue" transform="translate(24 595)">
+      <rect id="Rectangle_119" data-name="Rectangle 119" width="327" height="48" rx="4" fill="#d8e2ec"/>
+      <text id="CONTINUE-2" data-name="CONTINUE" transform="translate(164 28)" fill="#fff" font-size="14" font-family="Helvetica-Bold, Helvetica" font-weight="700"><tspan x="-36.555" y="0">CONTINUE</tspan></text>
+    </g>
+    <g id="Account_Signup" data-name="Account Signup">
+      <rect id="Rectangle_84" data-name="Rectangle 84" width="327" height="439" transform="translate(24 100)" fill="#fff"/>
+      <g id="Input" transform="translate(48 202)" clip-path="url(#clip-path)">
+        <g id="Input-2" data-name="Input" transform="translate(-470 -281)">
+          <g id="Path_2080" data-name="Path 2080" transform="translate(470 281)" fill="#fff">
+            <path d="M 278.5 47.5 L 0.5 47.5 L 0.5 0.5 L 161.7968902587891 0.5 L 278.5 0.5 L 278.5 47.5 Z" stroke="none"/>
+            <path d="M 1 1 L 1 47 L 278 47 L 278 1 L 1 1 M 0 0 L 279 0 L 279 48 L 0 48 L 0 0 Z" stroke="none" fill="#517fad"/>
+          </g>
+          <text id="Full_Name" data-name="Full Name" transform="translate(490 310)" fill="#517fad" font-size="14" font-family="Helvetica-Bold, Helvetica" font-weight="700"><tspan x="0" y="0">Full Name</tspan></text>
+        </g>
+        <g id="Input-3" data-name="Input" transform="translate(-470 -217)">
+          <g id="Path_2080-2" data-name="Path 2080" transform="translate(470 281)" fill="#fff">
+            <path d="M 278.5 47.5 L 0.5 47.5 L 0.5 0.5 L 161.7968902587891 0.5 L 278.5 0.5 L 278.5 47.5 Z" stroke="none"/>
+            <path d="M 1 1 L 1 47 L 278 47 L 278 1 L 1 1 M 0 0 L 279 0 L 279 48 L 0 48 L 0 0 Z" stroke="none" fill="#517fad"/>
+          </g>
+          <text id="Email" transform="translate(490 310)" fill="#517fad" font-size="14" font-family="Helvetica-Bold, Helvetica" font-weight="700"><tspan x="0" y="0">Email</tspan></text>
+        </g>
+        <g id="Input-4" data-name="Input" transform="translate(-470 -153)">
+          <g id="Path_2080-3" data-name="Path 2080" transform="translate(470 281)" fill="#fff">
+            <path d="M 278.5 47.5 L 0.5 47.5 L 0.5 0.5 L 161.7968902587891 0.5 L 278.5 0.5 L 278.5 47.5 Z" stroke="none"/>
+            <path d="M 1 1 L 1 47 L 278 47 L 278 1 L 1 1 M 0 0 L 279 0 L 279 48 L 0 48 L 0 0 Z" stroke="none" fill="#517fad"/>
+          </g>
+          <text id="Password" transform="translate(490 310)" fill="#517fad" font-size="14" font-family="Helvetica-Bold, Helvetica" font-weight="700"><tspan x="0" y="0">Password</tspan></text>
+        </g>
+        <g id="Input-5" data-name="Input" transform="translate(-470 -89)">
+          <g id="Path_2080-4" data-name="Path 2080" transform="translate(470 281)" fill="#fff">
+            <path d="M 278.5 47.5 L 0.5 47.5 L 0.5 0.5 L 161.7968902587891 0.5 L 278.5 0.5 L 278.5 47.5 Z" stroke="none"/>
+            <path d="M 1 1 L 1 47 L 278 47 L 278 1 L 1 1 M 0 0 L 279 0 L 279 48 L 0 48 L 0 0 Z" stroke="none" fill="#517fad"/>
+          </g>
+          <text id="Confirm_Password" data-name="Confirm Password" transform="translate(490 310)" fill="#517fad" font-size="14" font-family="Helvetica-Bold, Helvetica" font-weight="700"><tspan x="0" y="0">Confirm Password</tspan></text>
+        </g>
+      </g>
+      <text id="Create_an_Account" data-name="Create an Account" transform="translate(188 166)" fill="#8ba9c8" font-size="14" font-family="Helvetica-Bold, Helvetica" font-weight="700"><tspan x="-76.747" y="0">CREATE AN ACCOUNT</tspan></text>
+      <text id="By_creating_an_account_you_agree_to_our_Terms_of_Service_and_Privacy_Policy" data-name="By creating an account you agree to our
+Terms of Service and Privacy Policy" transform="translate(188 484)" fill="#8ba9c8" font-size="14" font-family="Helvetica-Bold, Helvetica" font-weight="700"><tspan x="-133.027" y="0">by creating an account you agree to our</tspan><tspan x="-116.72" y="17">terms of service and privacy policy</tspan></text>
+    </g>
+    <g id="Navigation_Bar" data-name="Navigation Bar" transform="translate(16 17)" opacity="0.996">
+      <text id="telemedicine" transform="translate(184 43)" fill="#fff" font-size="50" font-family="Helvetica-Bold, Helvetica" font-weight="700" opacity="0.5"><tspan x="-186.121" y="0">TELEMEDICINE</tspan></text>
+      <g id="Backward_arrow" data-name="Backward arrow" transform="translate(0 19)" clip-path="url(#clip-path-2)">
+        <path id="Path_10" data-name="Path 10" d="M8,0,6.545,1.455l5.506,5.506H0V9.039H12.052L6.545,14.545,8,16l8-8Z" transform="translate(16 16) rotate(180)" fill="#d8e2ec"/>
+      </g>
+    </g>
+  </g>
+</svg>

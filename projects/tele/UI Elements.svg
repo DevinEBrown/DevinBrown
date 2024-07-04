@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1081" height="1063" viewBox="0 0 1081 1063">
+  <defs>
+    <clipPath id="clip-UI_Elements_">
+      <rect width="1081" height="1063"/>
+    </clipPath>
+  </defs>
+  <g id="UI_Elements_" data-name="UI Elements " clip-path="url(#clip-UI_Elements_)">
+    <rect width="1081" height="1063" fill="#fff"/>
+    <g id="scale-white-color-0" transform="translate(46 58)" fill="#517fad" stroke="rgba(0,0,0,0)" stroke-width="1">
+      <rect width="40" height="164" stroke="none"/>
+      <rect x="0.5" y="0.5" width="39" height="163" fill="none"/>
+    </g>
+    <g id="scale-white-color-1" transform="translate(96 58)" fill="#648db6" stroke="rgba(0,0,0,0)" stroke-width="1">
+      <rect width="40" height="164" stroke="none"/>
+      <rect x="0.5" y="0.5" width="39" height="163" fill="none"/>
+    </g>
+    <g id="scale-white-color-2" transform="translate(154 58)" fill="#779bbf" stroke="rgba(0,0,0,0)" stroke-width="1">
+      <rect width="40" height="164" stroke="none"/>
+      <rect x="0.5" y="0.5" width="39" height="163" fill="none"/>
+    </g>
+    <g id="scale-white-color-3" transform="translate(208 58)" fill="#8ba9c8" stroke="rgba(0,0,0,0)" stroke-width="1">
+      <rect width="40" height="164" stroke="none"/>
+      <rect x="0.5" y="0.5" width="39" height="163" fill="none"/>
+    </g>
+    <g id="scale-white-color-4" transform="translate(264 58)" fill="#9eb7d1" stroke="rgba(0,0,0,0)" stroke-width="1">
+      <rect width="40" height="164" stroke="none"/>
+      <rect x="0.5" y="0.5" width="39" height="163" fill="none"/>
+    </g>
+    <g id="scale-white-color-5" transform="translate(318 58)" fill="#b1c6da" stroke="rgba(0,0,0,0)" stroke-width="1">
+      <rect width="40" height="164" stroke="none"/>
+      <rect x="0.5" y="0.5" width="39" height="163" fill="none"/>
+    </g>
+    <g id="scale-white-color-6" transform="translate(373 58)" fill="#c5d4e3" stroke="rgba(0,0,0,0)" stroke-width="1">
+      <rect width="40" height="164" stroke="none"/>
+      <rect x="0.5" y="0.5" width="39" height="163" fill="none"/>
+    </g>
+    <g id="scale-white-color-7" transform="translate(428 58)" fill="#d8e2ec" stroke="rgba(0,0,0,0)" stroke-width="1">
+      <rect width="40" height="164" stroke="none"/>
+      <rect x="0.5" y="0.5" width="39" height="163" fill="none"/>
+    </g>
+    <g id="scale-white-color-8" transform="translate(485 58)" fill="#ebf0f5" stroke="rgba(0,0,0,0)" stroke-width="1">
+      <rect width="40" height="164" stroke="none"/>
+      <rect x="0.5" y="0.5" width="39" height="163" fill="none"/>
+    </g>
+    <g id="scale-white-color-9" transform="translate(535 58)" fill="#fff" stroke="rgba(0,0,0,0)" stroke-width="1">
+      <rect width="40" height="164" stroke="none"/>
+      <rect x="0.5" y="0.5" width="39" height="163" fill="none"/>
+    </g>
+    <text id="Lorem_ipsum_dolor_sit_amet_consectetur_adipiscing_elit_sed_do_eiusmod_tempor_incididunt_ut_labore_et_dolore_magna_aliqua._Pellentesque_sit_amet_porttitor_eget_dolor_morbi._Tempus_iaculis_urna_id_volutpat_lacus_laoreet_non_curabitur_gravida._Et_ligula_ull" data-name="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Pellentesque sit amet porttitor eget dolor morbi. Tempus iaculis urna id volutpat lacus laoreet non curabitur gravida. Et ligula ull" transform="translate(29 571)" fill="#0d0d0d" font-size="50" font-family="Helvetica"><tspan x="0" y="39">Lorem ipsum dolor sit amet, consectetur </tspan><tspan x="0" y="99">adipiscing elit, sed do eiusmod tempor </tspan><tspan x="0" y="159">incididunt ut labore et dolore magna aliqua. </tspan><tspan x="0" y="219">Pellentesque sit amet porttitor eget dolor </tspan><tspan x="0" y="279">morbi. Tempus iaculis urna id volutpat lacus </tspan><tspan x="0" y="339">laoreet non curabitur gravida. Et ligula </tspan><tspan x="0" y="399">ullamcorper malesuada proin libero nunc </tspan><tspan x="0" y="459">consequat. Nulla porttitor massa id neque </tspan></text>
+    <text id="Header_Subheader_" data-name="Header
+Subheader
+
+" transform="translate(154 397)" font-size="100" font-family="Helvetica-Bold, Helvetica" font-weight="700"><tspan x="226.367" y="77">HEADER</tspan><tspan font-size="50"><tspan x="308.301" y="159">Subheader</tspan></tspan><tspan font-family="Helvetica" font-weight="400"><tspan x="437.5" y="257"></tspan></tspan></text>
+  </g>
+</svg>
